@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cesar77muse
 - 👀 I’m interested in mechatronics
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me : cesarhmcod@gmail.com
 
 <!---
